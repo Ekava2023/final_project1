@@ -1,0 +1,15 @@
+E:\Katya\GeekBrains\c#_prog\final_project1\obj\Debug\net6.0\final_project1.csproj.AssemblyReference.cache
+E:\Katya\GeekBrains\c#_prog\final_project1\obj\Debug\net6.0\final_project1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Katya\GeekBrains\c#_prog\final_project1\obj\Debug\net6.0\final_project1.AssemblyInfoInputs.cache
+E:\Katya\GeekBrains\c#_prog\final_project1\obj\Debug\net6.0\final_project1.AssemblyInfo.cs
+E:\Katya\GeekBrains\c#_prog\final_project1\obj\Debug\net6.0\final_project1.csproj.CoreCompileInputs.cache
+E:\Katya\GeekBrains\c#_prog\final_project1\bin\Debug\net6.0\final_project1.exe
+E:\Katya\GeekBrains\c#_prog\final_project1\bin\Debug\net6.0\final_project1.deps.json
+E:\Katya\GeekBrains\c#_prog\final_project1\bin\Debug\net6.0\final_project1.runtimeconfig.json
+E:\Katya\GeekBrains\c#_prog\final_project1\bin\Debug\net6.0\final_project1.dll
+E:\Katya\GeekBrains\c#_prog\final_project1\bin\Debug\net6.0\final_project1.pdb
+E:\Katya\GeekBrains\c#_prog\final_project1\obj\Debug\net6.0\final_project1.dll
+E:\Katya\GeekBrains\c#_prog\final_project1\obj\Debug\net6.0\refint\final_project1.dll
+E:\Katya\GeekBrains\c#_prog\final_project1\obj\Debug\net6.0\final_project1.pdb
+E:\Katya\GeekBrains\c#_prog\final_project1\obj\Debug\net6.0\final_project1.genruntimeconfig.cache
+E:\Katya\GeekBrains\c#_prog\final_project1\obj\Debug\net6.0\ref\final_project1.dll
