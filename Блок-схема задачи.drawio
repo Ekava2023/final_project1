@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-17T17:49:52.926Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="9JKHKQOUxdYXluu_33IO" version="23.1.5" type="device">
+<mxfile host="app.diagrams.net" modified="2024-02-17T17:52:48.392Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="NH1Nh4ML3sxjwKcU9U9N" version="23.1.5" type="device">
   <diagram name="Страница — 1" id="avXQ5a6GFvaS8qTPImMt">
-    <mxGraphModel dx="726" dy="835" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1647" dy="848" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -220,6 +220,9 @@
         </mxCell>
         <mxCell id="bU1lk9gH_a850dXzaI8o-62" value="matrix = matrix1&lt;br&gt;len = symbol_quantity" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bU1lk9gH_a850dXzaI8o-64" value="Метод рассчитывает количество строк в массиве,, где символов &amp;lt;=3, затем создает новый массив строк&amp;nbsp; нужной размерности. Затем копирует нужные строки во второй массив из исходного" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="414" y="10" width="316" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
